@@ -36,6 +36,12 @@ De tekenlogica is gebaseerd op `renderKruispunt()` uit de VMA Viewer. Het diagra
 
 ## Licentie
 
-De broncode valt onder de [GNU Affero General Public License, versie 3](./LICENSE) (SPDX: `AGPL-3.0-only`).
+**Licentie: GNU Affero General Public License v3.0 (`AGPL-3.0-only`).**
 
-Verspreid je een gewijzigde versie, dan gelden dezelfde licentievoorwaarden voor die versie en moet je de bijbehorende broncode beschikbaar stellen volgens de licentie. Bied je een gewijzigde versie via een netwerk aan, dan moeten gebruikers die ermee werken de bijbehorende broncode kosteloos via het netwerk kunnen verkrijgen.
+De AGPL-3.0 is een copyleftlicentie. Wie de software verspreidt, moet onder de toepasselijke voorwaarden de bijbehorende broncode beschikbaar stellen. Bij een gewijzigde versie die via een netwerk aan gebruikers wordt aangeboden, geldt daarnaast een verplichting om die gebruikers toegang tot de bijbehorende broncode te bieden.
+
+Dit betekent **niet** dat iedere privéwijziging automatisch openbaar op GitHub moet worden gepubliceerd. De exacte verplichtingen volgen uit de licentietekst.
+
+Voeg het volledige officiële licentiebestand als **`LICENSE`** toe aan de repository. De vermelding in deze README vervangt dat bestand niet. Controleer vóór publicatie ook of je bevoegd bent om alle opgenomen code en modelgegevens onder deze licentie beschikbaar te stellen, en of de licenties van gebruikte componenten hiermee verenigbaar zijn.
+
+Meer informatie: [GNU AGPL v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
