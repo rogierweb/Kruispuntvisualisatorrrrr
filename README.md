@@ -2,6 +2,8 @@
 
 Maak een kruispuntdiagram van verkeersstromen tussen kruispunttakken. Geef elke tak een naam en een hoek en vul de intensiteiten in een herkomst-bestemmingsmatrix (HB-matrix) in. De pijlen veranderen direct mee met je invoer. Elke herkomsttak heeft een eigen kleur en de lijndikte geeft de relatieve intensiteit van de verkeersstroom weer.
 
+Check het hier: https://rogierweb.github.io/Kruispuntvisualisatorrrrr/
+
 ## Openen
 
 Open het HTML-bestand in je browser. De kruispuntvisualisatorrrrr werkt offline. HTML, CSS en JavaScript zitten in hetzelfde bestand. Je hebt geen installatie, server of buildstap nodig.
