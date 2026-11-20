@@ -38,4 +38,4 @@ De tekenlogica is gebaseerd op `renderKruispunt()` uit de VMA Viewer. Het diagra
 
 De broncode valt onder de [GNU Affero General Public License, versie 3](./LICENSE) (SPDX: `AGPL-3.0-only`).
 
-Verspreid je een gewijzigde versie, dan gelden dezelfde licentievoorwaarden voor die versie en moet je de bijbehorende broncode beschikbaar stellen volgens de licentie. Bied je een gewijzigde versie via een netwerk aan, dan moeten gebruikers die ermee werken de bijbehorende broncode kosteloos via het netwerk kunnen verkrijgen. Zie [artikel 13 van de licentie](./LICENSE).
+Verspreid je een gewijzigde versie, dan gelden dezelfde licentievoorwaarden voor die versie en moet je de bijbehorende broncode beschikbaar stellen volgens de licentie. Bied je een gewijzigde versie via een netwerk aan, dan moeten gebruikers die ermee werken de bijbehorende broncode kosteloos via het netwerk kunnen verkrijgen.
